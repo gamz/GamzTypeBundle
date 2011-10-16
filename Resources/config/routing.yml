@@ -1,0 +1,3 @@
+_game:
+    resource: "@GamzTypefastrBundle/Controller/GameController.php"
+    type:     annotation
